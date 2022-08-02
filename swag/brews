@@ -9,3 +9,5 @@ postgresql
 python@3.9
 ipython
 pyenv
+git-flow
+pre-commit
